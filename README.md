@@ -11,4 +11,4 @@ Career Development Experience: Choose Your Own Adventure 02
 * **Long-Term:** Become a Full Stack Engineer of a company located in the Seattle Area
 
 ## Deliverable Summary
-This repository contains my application materials (Resume/Cover Letter), a log of my technical preparation for the interview, and a reflection report on the interview experience.
+This repository contains my application materials (Resume), a log of my technical preparation for the interview, and a reflection report on the interview experience.
